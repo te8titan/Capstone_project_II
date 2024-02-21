@@ -42,8 +42,8 @@ The next steps are evaluating fast fitting models like `Kalman Forecaster` and `
 
 ### Outline of project
 
-- [Link to notebook 1](https://github.com/te8titan/Capstone_project_II)
-- [Link to data 2](https://github.com/te8titan/Capstone_project_II/data)
+- [Link to notebook 1](https://github.com/te8titan/Capstone_project_II/tree/main/Capstone_Project_Roland_Unger.ipynb)
+- [Link to data 2](https://github.com/te8titan/Capstone_project_II/tree/main/data)
 
 
 ### Contact and Further Information
