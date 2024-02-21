@@ -32,7 +32,6 @@ First data cleaning and peparations was done. Furthermore the important features
 Next, with a cross validation function the best hyperparameter was selected. The results was stored in a comparsion dictionary and plotted for better understanding.
 
 ### Results
-What did your research find?
 The most important finding was that a good ARIMA model need a high degree of lags.<br>
 A high degree of lags need a lot of fitting time.<br>
 A high fitting time is in most of the cases not possible, because of a forecast longer than 5 seconds is not applicable from the quality side.
