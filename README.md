@@ -33,16 +33,19 @@ Next, with a cross validation function the best hyperparameter was selected. The
 
 ### Results
 What did your research find?
+The most important finding was that a good ARIMA model need a high degree of lags.<br>
+A high degree of lags need a lot of fitting time.<br>
+A high fitting time is in most of the cases not possible, because of a forecast longer than 5 seconds is not applicable from the quality side.
 
 ### Next steps
-What suggestions do you have for next steps?
+The next steps are evaluating fast fitting models like `Kalman Forecaster` and `Regression model`
 
 ### Outline of project
 
 - [Link to notebook 1](https://github.com/te8titan/Capstone_project_II)
 
 
-#### Contact and Further Information
+### Contact and Further Information
 
 Roland Unger
 Email: te8@titan-electronic.com
